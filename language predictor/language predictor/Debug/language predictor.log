@@ -1,0 +1,24 @@
+﻿  Edge.cpp
+c:\users\marti\desktop\machine learning\language predictor\language predictor\edge.cpp(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marti\desktop\machine learning\language predictor\language predictor\edge.cpp(47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marti\desktop\machine learning\language predictor\language predictor\edge.cpp(51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  MLGraph.cpp
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(135): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\marti\desktop\machine learning\language predictor\language predictor\csvparser.h(174): warning C4018: '<=': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\ai.h(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  language predictor.vcxproj -> C:\Users\marti\Desktop\Machine learning\language predictor\Debug\language predictor.exe

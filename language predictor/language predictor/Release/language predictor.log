@@ -1,0 +1,12 @@
+﻿  MLGraph.cpp
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\machine learning\language predictor\language predictor\mlgraph.cpp(140): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 977 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  language predictor.vcxproj -> C:\Users\marti\Desktop\Machine learning\language predictor\Release\language predictor.exe
