@@ -129,12 +129,12 @@ pair<float, float> MLGraph::processWord(string word)
 
 	for (int i = 0; i < word.length(); i++)
 	{
-		layers[0]->getNodeList()[i]->addValue(float(word[i]));
+		layers[0]->getNodeList()[i]->addValue(float(word[i])/10.0);
 	}
 
 	for (int i = word.length()-1; i >= 0; i--)
 	{
-		layers[0]->getNodeList()[layers[0]->getNodeList().size() - 1 - i]->addValue(float(word[i]));
+		layers[0]->getNodeList()[layers[0]->getNodeList().size() - 1 - i]->addValue(float(word[i])/10.0);
 	}
 
 	for (int i = 0; i < layers.size(); i++)

@@ -62,19 +62,18 @@ public:
 		for (int g = 0; g < generations; g++)
 		{
 			vector<pair<string, int>> test{};
-			for (int w = 0; w < 1000; w++)
+			for (int w = 0; w < 500; w++)
 			{
-				if (rand() % 100 < 50) //English Word
-				{
 					string word = english_words[rand() % (english_words.size() - 1)];
 					test.push_back(make_pair(word, 0));
-				}
-				else //Spanish word
-				{
-					string word = spanish_words[rand() % (spanish_words.size() - 1)];
-					test.push_back(make_pair(word, 1));
-				}
+				
 			}
+			for (int w = 0; w < 500; w++)
+			{
+				string word = spanish_words[rand() % (spanish_words.size() - 1)];
+				test.push_back(make_pair(word, 1));
+			}
+
 			for (int n = 0; n < graphs.size(); n++)
 			{
 				pair<int, MLGraph*>* NN = &graphs[n];
